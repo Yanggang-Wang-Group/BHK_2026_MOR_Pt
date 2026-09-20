@@ -4,4 +4,4 @@ This repository contains structural data associated with our study of the methan
 
 - Trajectories and representative structural snapshots of aimd simulations at each OH* coverage.
 
-- Final-state structures from all thermodynamic integration (TI) sampling points.
+- Final frames of structures from all thermodynamic integration (TI) sampling points.
